@@ -15,7 +15,7 @@
 	<name>user_details_1</name>
 	<description>user registration details</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -72,5 +72,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
